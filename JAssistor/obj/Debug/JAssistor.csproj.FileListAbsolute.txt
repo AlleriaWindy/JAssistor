@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\bin\Debug\JAssistor.exe
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\bin\Debug\JAssistor.pdb
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\obj\Debug\JAssistor.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\obj\Debug\MainWindow.baml
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\obj\Debug\MainWindow.g.cs
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\obj\Debug\App.g.cs
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\obj\Debug\JAssistor_MarkupCompile.cache
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\obj\Debug\JAssistor.g.resources
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\obj\Debug\JAssistor.Properties.Resources.resources
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\obj\Debug\JAssistor.csproj.GenerateResource.Cache
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\obj\Debug\JAssistor.exe
+D:\VisualStudioProjects\JDeskAss\JAssistor\JAssistor\obj\Debug\JAssistor.pdb
